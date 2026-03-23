@@ -1,4 +1,6 @@
-public class Main {
+package AtividadeHeranca_e_polimorfismo;
+
+public class Main{
 
     public static void main(String[] args) {
 
